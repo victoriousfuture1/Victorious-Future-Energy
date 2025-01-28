@@ -1,6 +1,10 @@
 /*============== Body ==============*/
 /* Custom css */
 
+
+
+
+/*---------------*/
 .team-img {
     max-width: 200px;
     object-fit: cover;
@@ -649,13 +653,13 @@ body [id*="accordion-"].accordion-style2 .panel-title a {
 }
 
 .logoWidget span {
-    color: #d10f56 !important;
+    color: #40730D !important;
     margin-top: 11% !important;
 }
 
 .icon-box .icon-services {
     transition: all 0.3s ease-in-out;
-    color: #d10f56;
+    color: #40730D;
     background: #fafafa;
     width: 70px;
     font-size: 40px;
@@ -1451,7 +1455,7 @@ body {
     border-radius: 0;
     display: block;
     margin: 0 auto;
-    background-color: #d10f56;
+    background-color: #40730D;
 }
 
 .wb-header .navbar-toggle:hover, .wb-header .navbar-toggle:focus {
